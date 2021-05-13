@@ -52,7 +52,7 @@ export const Screen = styled('div', ScreenProps)`
   }
   background-color: ${props => props.screenBackgroundColor ? props.screenBackgroundColor : '#fefefe' };
   box-shadow: ${props => props.screenLightShadow ? props.screenLightShadow : '-31px -31px 62px #d9d9d9'}, ${props => props.screenDarkShadow ? props.screenDarkShadow : '-31px -31px 62px #ffffff' };
-  height: ${props => props.isRounded ? 'calc(100vh - 45px)' : 'initial' };
-  border-top-left-radius: ${props => props.isRounded ? '25px' : 'initial' };
-  border-top-right-radius: ${props => props.isRounded ? '25px' : 'initial' };
+  height: ${props => props.isRounded ? 'calc(100vh - 45px)' : '100vh' };
+  border-top-left-radius: ${props => props.isRounded ? '25px' : 0 };
+  border-top-right-radius: ${props => props.isRounded ? '25px' : 0 };
 `;

@@ -24,6 +24,7 @@ export default /*#__PURE__*/Vue.extend({
         :screen-light-shadow="screenLightShadow"
         :screen-dark-shadow="screenDarkShadow"
         :is-rounded="isRounded">
+        <slot></slot>
       </mv-screen>
     </mv-screen-wrapper>
   </mv-layout>

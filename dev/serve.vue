@@ -25,5 +25,7 @@ export default Vue.extend({
     :screen-background-color="screenBackgroundColor"
     :screen-light-shadow="screenLightShadow"
     :screen-dark-shadow="screenDarkShadow"
-    :is-rounded="isRounded" />
+    :is-rounded="isRounded">
+    <div>Title in Screen</div>
+  </vue-mobile-sized-view>
 </template>
