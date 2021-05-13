@@ -1,7 +1,8 @@
 {
   "name": "vue-mobile-sized-view",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Mobile sized view component for Vue, with support for neumorphism ui",
+  "author": "stevejkang <iam@juneyoung.io>",
   "homepage": "https://github.com/stevejkang/vue-mobile-sized-view#readme",
   "main": "dist/vue-mobile-sized-view.ssr.js",
   "browser": "dist/vue-mobile-sized-view.esm.js",
