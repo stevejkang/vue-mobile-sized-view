@@ -1,6 +1,6 @@
 {
   "name": "vue-mobile-sized-view",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Responsive Mobile-sized Wrapper for Vuejs - Easily prototype your mobile-sized web apps with desktop support",
   "author": "stevejkang <iam@juneyoung.io>",
   "homepage": "https://github.com/stevejkang/vue-mobile-sized-view#readme",
