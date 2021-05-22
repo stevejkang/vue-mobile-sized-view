@@ -2,12 +2,12 @@
 
 [![NPM](https://nodei.co/npm/vue-mobile-sized-view.png)](https://nodei.co/npm/vue-mobile-sized-view/)
 
-> Mobile sized view component for Vue, with support for neumorphism ui  
+> Responsive Mobile-sized Wrapper for Vuejs - Easily prototype your mobile-sized web apps with desktop support  
 
 > This project's source and idea are fully based on [`react-mobile-sized-view`](https://github.com/junhoyeo/react-mobile-sized-view)  
 > Special thanks to [@junhoyeo](https://github.com/junhoyeo)
 
-## 🚀 Examples
+## 🚀 Demo & Examples
 > Find out [here](https://github.com/junhoyeo/react-mobile-sized-view#-examples)
 
 ## 📦 Usage
